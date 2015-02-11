@@ -4,7 +4,7 @@ Donate link: https://wpaffiliatemanager.com/
 Tags: affiliate, affiliates, users, affiliates manager, integration, woocommerce, account, checkout
 Requires at least: 3.8
 Tested up to: 4.1
-Stable tag: 1.1
+Stable tag: 1.1.2
 License: GPLv2 or later
 
 Automatically create affiliate accounts for your WooCommerce users.
@@ -32,6 +32,9 @@ Check the following page for screenshots
 https://wpaffiliatemanager.com/
 
 == Changelog ==
+
+= 1.1.2 =
+* Populate the address details of the affiliate when a new WooCommerce user account is created.
 
 = 1.0 =
 * First commit to wordpress.org
